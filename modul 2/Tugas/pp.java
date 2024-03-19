@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Mahasiswa {
+public class pp {
     private static Book[] bookList = new Book[10];
     private static User[] userStudent = new User[10];
     private static Scanner scanner = new Scanner(System.in);
